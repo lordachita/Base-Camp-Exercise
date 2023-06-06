@@ -13,38 +13,58 @@ https://docs.base.org/base-camp/docs/deployment-to-testnet/deployment-to-testnet
 
 Exercise 2: Control Structures Exercise <br/>
 https://docs.base.org/base-camp/docs/control-structures/control-structures-exercise
-<img src="https://ipfs.nftnest.io/1200/5a98410fef6477f53d30b624cc322abd" alt="Alt Text" style="width: 50%;" align="center">
-
+<p align="center">
+<img src="https://ipfs.nftnest.io/1200/19a555755be4fcf358bba131f31c5515" alt="" style="width: 40%;" align="center">
+</p>
+ 
 Exercise 3: Storage Exercise <br/>
 https://docs.base.org/base-camp/docs/storage/storage-exercise
-![Alt Text](https://ipfs.nftnest.io/1200/18ebdca4ac5531361301f5a778cc5aba)
+<p align="center">
+<img src="https://ipfs.nftnest.io/1200/18ebdca4ac5531361301f5a778cc5aba" alt="" style="width: 40%;" align="center">
+</p>
+ 
 
 Exercise 4: Array Exercise <br/>
 https://docs.base.org/base-camp/docs/arrays/arrays-exercise
-![Alt Text](https://ipfs.nftnest.io/1200/b089de99d5c24d397745d1816875ed92)
-
-Exercise 5: Struct Exercise <br/>
+<p align="center">
+<img src="https://ipfs.nftnest.io/1200/b089de99d5c24d397745d1816875ed92" alt="" style="width: 40%;" align="center">
+</p>
+ 
+Exercise 5: Mappings Exercise <br/>
+https://docs.base.org/base-camp/docs/mappings/mappings-exercise
+<p align="center">
+<img src="https://ipfs.nftnest.io/1200/ec692b3566b8e9ad90c076497b32a90f" alt="" style="width: 40%;" align="center">
+</p>
+ 
+ 
+Exercise 6: Struct Exercise <br/>
 https://docs.base.org/base-camp/docs/structs/structs-exercise
-![Alt Text](https://ipfs.nftnest.io/1200/ec692b3566b8e9ad90c076497b32a90f)
-
-Exercise 6: Inheritance Exercise <br/>
+<p align="center">
+<img src="https://ipfs.nftnest.io/1200/7666a83ddeb34c92a9ce9729426d3004" alt="" style="width: 40%;" align="center">
+</p>
+ 
+Exercise 7: Inheritance Exercise <br/>
 https://docs.base.org/base-camp/docs/inheritance/inheritance-exercise
-![Alt Text](https://ipfs.nftnest.io/1200/5a98410fef6477f53d30b624cc322abd)
-
-Exercise 7: Import Exercise <br/>
+<p align="center">
+<img src="https://ipfs.nftnest.io/1200/f5ce044c5e14479c1db642ea890463c6" alt="" style="width: 40%;" align="center">
+</p>
+ 
+Exercise 8: Import Exercise <br/>
 https://docs.base.org/base-camp/docs/imports/imports-exercise
-![Alt Text](https://ipfs.nftnest.io/1200/5a98410fef6477f53d30b624cc322abd)
-
-Exercise 8: Array Exercise <br/>
-https://docs.base.org/base-camp/docs/imports/imports-exercise
-![Alt Text](https://ipfs.nftnest.io/1200/5a98410fef6477f53d30b624cc322abd)
-
+<p align="center">
+<img src="https://ipfs.nftnest.io/1200/36e5b7ed893f05fc74604c67ad4582e8" alt="" style="width: 40%;" align="center">
+</p>
+ 
 Exercise 9: Error Triage Exercise <br/>
 https://docs.base.org/base-camp/docs/error-triage/error-triage-exercise
-![Alt Text](https://ipfs.nftnest.io/1200/5a98410fef6477f53d30b624cc322abd)
-
+<p align="center">
+<img src="https://ipfs.nftnest.io/1200/71a06697c1ae478412e1ad518a12abf8?rev=1.1" alt="" style="width: 40%;" align="center">
+</p>
+ 
 Exercise 10: New Exercise <br/>
 https://docs.base.org/base-camp/docs/new-keyword/new-keyword-exercise
-![Alt Text](https://ipfs.nftnest.io/1200/5a98410fef6477f53d30b624cc322abd)
-
+<p align="center">
+<img src="https://ipfs.nftnest.io/1200/10d966de0785ade5260dc321e6767914?rev=1.1" alt="" style="width: 40%;" align="center">
+</p>
+ 
 ...
