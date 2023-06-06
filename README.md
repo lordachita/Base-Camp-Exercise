@@ -7,11 +7,13 @@ Base Camp has created an exceptional course series that empowers new smart contr
 
 Exercise 1: Basic Math & Deployment Exercise <br/>
 https://docs.base.org/base-camp/docs/deployment-to-testnet/deployment-to-testnet-exercise
-<img src="https://ipfs.nftnest.io/1200/5a98410fef6477f53d30b624cc322abd" alt="Alt Text" style="width: 50%;" align="center">
+<p align="center">
+<img src="https://ipfs.nftnest.io/1200/5a98410fef6477f53d30b624cc322abd" alt="" style="width: 40%;" align="center">
+</p>
 
 Exercise 2: Control Structures Exercise <br/>
 https://docs.base.org/base-camp/docs/control-structures/control-structures-exercise
-![Alt Text](https://ipfs.nftnest.io/1200/19a555755be4fcf358bba131f31c5515)
+<img src="https://ipfs.nftnest.io/1200/5a98410fef6477f53d30b624cc322abd" alt="Alt Text" style="width: 50%;" align="center">
 
 Exercise 3: Storage Exercise <br/>
 https://docs.base.org/base-camp/docs/storage/storage-exercise
