@@ -2,7 +2,8 @@
 # Base-Camp-Exercise
 
 Base Camp has created an exceptional course series that empowers new smart contract developers to educate themselves while earning NFTs as certificates. <br/>
-https://docs.base.org/base-camp/docs/welcome 
+1. https://docs.base.org/base-camp/docs/welcome <br/>
+2. https://base.mirror.xyz/EuiYqAyZQmIYowkXgl22hGp97wICBcV7jnmRL3k6CC8
 
 Exercise 1: Basic Math & Deployment Exercise <br/>
 https://docs.base.org/base-camp/docs/deployment-to-testnet/deployment-to-testnet-exercise
